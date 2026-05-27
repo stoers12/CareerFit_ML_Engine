@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="LossyEncoding" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="NonAsciiCharacters" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="bcrypt" />
+          <option value="fastapi" />
+          <option value="uvicorn" />
+          <option value="python-multipart" />
+          <option value="sqlalchemy" />
+          <option value="psycopg2-binary" />
+          <option value="pydantic" />
+          <option value="pydantic-settings" />
+          <option value="python-dotenv" />
+          <option value="python-jose" />
+          <option value="PyJWT" />
+          <option value="pymupdf" />
+          <option value="pgvector" />
+          <option value="sentence-transformers" />
+          <option value="pdfkit" />
+          <option value="torch" />
+          <option value="passlib" />
+          <option value="httpx" />
+          <option value="httpcore" />
+          <option value="groq" />
+          <option value="cloudinary" />
+          <option value="celery" />
+          <option value="redis" />
+          <option value="slowapi" />
+          <option value="email-validator" />
+          <option value="Jinja2" />
+          <option value="weasyprint" />
+          <option value="tenacity" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
